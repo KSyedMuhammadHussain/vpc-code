@@ -1,5 +1,5 @@
 Resources:
-  # Create a VPC
+  # Create a VPC for the new infrastucture
   PrivateVPC:
     Type: AWS::EC2::VPC
     Properties:
